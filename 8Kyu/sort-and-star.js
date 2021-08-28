@@ -1,4 +1,4 @@
-// sy
+// hmmm
 function twoSort(arr) {
    let result = arr.sort();
    let res = [];
@@ -9,12 +9,13 @@ function twoSort(arr) {
    return res.join("");
 }
 
-// punya orang
+// cantik
 function duaSort(arr) {
    return arr.sort()[0].split("").join("^^^");
 }
-
 // test
 console.log(twoSort(["bitcoin", "take", "array", "the", "world", "maybe", "who", "knows", "perhaps"]));
+
 console.log("-----");
+
 console.log(duaSort(["bitcoin", "take", "array", "the", "world", "maybe", "who", "knows", "perhaps"]));
