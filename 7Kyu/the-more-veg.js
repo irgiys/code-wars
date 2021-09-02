@@ -53,7 +53,6 @@ console.log(
          { veg: ["carrots", "butternut squash", "courgette"] },
          { veg: ["carrots", "butternut squash"] },
          { veg: ["carrots", "butternut squash", "adada", "adad", "dadear"] },
-         { veg: ["carrots", "butternut squash", "adada", "adad", "dadear", "adadad"] },
       ])
    )
 );
