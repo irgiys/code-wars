@@ -11,8 +11,9 @@ function twoSort(arr) {
 
 // cantik
 function duaSort(arr) {
-   return arr.sort()[0].split("").join("^^^");
+ return arr.sort()[0].split("").join("^^^");
 }
+
 // test
 console.log(twoSort(["bitcoin", "take", "array", "the", "world", "maybe", "who", "knows", "perhaps"]));
 

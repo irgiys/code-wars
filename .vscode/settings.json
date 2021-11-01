@@ -1,0 +1,7 @@
+{
+    "diffEditor.codeLens": true,
+    "editor.minimap.enabled": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme"
+}
