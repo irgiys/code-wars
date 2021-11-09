@@ -1,11 +1,4 @@
 function gooseFilter(birds) {
-    // var geese = [
-    //     "African",
-    //     "Roman Tufted",
-    //     "Toulouse",
-    //     "Pilgrim",
-    //     "Steinbacher",
-    // ];
     const geese = new Set([
         "African",
         "Roman Tufted",
